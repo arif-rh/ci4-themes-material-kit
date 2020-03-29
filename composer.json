@@ -1,0 +1,29 @@
+{
+	"name": "arif-rh/ci4-themes-material-kit",
+	"description": "CI4 Themes using Material Kit",
+	"keywords": [
+		"codeigniter",
+		"codeigniter4",
+		"themes",
+		"CI4 Theme",
+		"codeigniter material-kit",
+		"codeigniter material-design",
+		"codeigniter bootstrap material kit",
+		"codeigniter bootstrap kit",
+		"codeigniter responsive bootstrap kit",
+		"codeigniter bootstrap 4 ui kit"
+	],
+	"homepage": "https://github.com/arif-rh/ci4-themes-material-kit",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Arif RH",
+			"email": "arifrahmanhakim.net@gmail.com",
+			"homepage": "https://github.com/arif-rh",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"arif-rh/ci4-themes": "dev-master"
+	}
+}

@@ -1,0 +1,7 @@
+.vscode
+
+vendor/
+docs/
+build/
+
+composer.lock
