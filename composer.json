@@ -24,6 +24,6 @@
 		}
 	],
 	"require": {
-		"arif-rh/ci4-themes": "dev-master"
+		"arif-rh/ci4-themes": "^1.0"
 	}
 }
